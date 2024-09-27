@@ -1,0 +1,10 @@
+numpy
+pandas
+py7zr
+requests
+datasets
+scipy
+scikit-learn
+matplotlib
+sportypy
+nba_api
